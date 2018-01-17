@@ -5,6 +5,10 @@ This is a project was implemented me, Michael Honke and Rahul Iyer as a part of 
 
 [![Sample 1](http://img.youtube.com/vi/-pqUG2jHBWQ/0.jpg)](https://youtu.be/-pqUG2jHBWQ)
 
+<video width="99%" height="540" autoplay loop muted markdown="0">
+<source src="car.mp4" type="video/mp4" markdown="0" >
+</video>
+
 
 <video controls="controls" 
        class="video-stream" 
