@@ -7,4 +7,4 @@ This is a project was implemented me, Michael Honke and Rahul Iyer as a part of 
 ![Alt Text](car.gif)
 -->
 
-<img src="car.gif" width="1000" height="200" />
+<img src="car.gif" width="1200" height="250" />
