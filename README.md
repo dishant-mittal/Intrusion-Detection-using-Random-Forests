@@ -5,6 +5,10 @@ This is a project was implemented me, Michael Honke and Rahul Iyer as a part of 
 
 [![Sample 1](http://img.youtu.be.com/vi/-pqUG2jHBWQ/0.jpg)](https://youtu.be/-pqUG2jHBWQ)
 
+<a href="https://youtu.be/-pqUG2jHBWQ">
+<img border="0" alt="W3Schools" src="1.png" width="100" height="100">
+</a>
+
 <iframe width="420" height="315"
 src="https://youtu.be/-pqUG2jHBWQ">
 </iframe>
