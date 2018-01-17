@@ -3,7 +3,7 @@ This is a project was implemented me, Michael Honke and Rahul Iyer as a part of 
 * [Deep Photo Style Transfer Luan et al.](https://arxiv.org/abs/1703.07511)
 * [Artistic style transfer for videos Ruder et al.](https://arxiv.org/abs/1604.08610)
 
-[![Sample 1](http://img.youtube.com/vi/-pqUG2jHBWQ/0.jpg)](https://youtu.be/-pqUG2jHBWQ)
+[![Sample 1](http://img.youtube.com/vi/-pqUG2jHBWQ/0.jpg)](youtu.berepeat/-pqUG2jHBWQ)
 
 <a href="https://youtu.be/-pqUG2jHBWQ">
 <img border="0" alt="W3Schools" src="1.png" width="600" height="400">
