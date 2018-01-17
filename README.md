@@ -7,6 +7,7 @@ This is a project was implemented me, Michael Honke and Rahul Iyer as a part of 
 
 ![Alt Text](car.gif)
        
+<img src="car.gif" width="40" height="40" />
 <iframe width="420" height="315"
 src="https://youtu.be/-pqUG2jHBWQ">
 </iframe>
