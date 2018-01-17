@@ -5,9 +5,7 @@ This is a project was implemented me, Michael Honke and Rahul Iyer as a part of 
 
 [![Sample 1](http://img.youtube.com/vi/-pqUG2jHBWQ/0.jpg)](https://youtu.be/-pqUG2jHBWQ)
 
-<a href="https://youtu.be/-pqUG2jHBWQ">
-<img border="0" alt="W3Schools" src="1.png" width="600" height="400">
-</a>
+<object width="425" height="344" data="https://youtu.be/-pqUG2jHBWQ"></object>
 
 <video controls="controls" 
        class="video-stream" 
