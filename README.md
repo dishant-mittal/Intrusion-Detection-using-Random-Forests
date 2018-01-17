@@ -5,17 +5,7 @@ This is a project was implemented me, Michael Honke and Rahul Iyer as a part of 
 
 [![Sample 1](http://img.youtube.com/vi/-pqUG2jHBWQ/0.jpg)](https://youtu.be/-pqUG2jHBWQ)
 
-<div class="myvideo">
-   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-       <source src="{{ site.baseurl }}/car.mp4" type="video/mp4" />
-   </video>
-</div>
-
-<video controls="controls" 
-       class="video-stream" 
-       x-webkit-airplay="allow" 
-       data-youtube-id="N9oxmRT2YWw" 
-       src="https://youtu.be/-pqUG2jHBWQ"></video>
+![Alt Text](car.gif)
        
 <iframe width="420" height="315"
 src="https://youtu.be/-pqUG2jHBWQ">
